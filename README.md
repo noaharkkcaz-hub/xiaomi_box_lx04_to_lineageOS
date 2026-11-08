@@ -1,5 +1,7 @@
 # Guide of converting xiaomi Mi Smart Clock (model:LX04) to lineageOS
+
 [Reference](https://dinki.github.io/View-Assist/docs/supported-devices/android-devices/xiaomi-smart-clock)
+
 0. **Preparation (Linux)**
   - Install mtk client tool
   - Install ADB
